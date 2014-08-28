@@ -11,7 +11,7 @@
 
   :source-paths ["src"]
 
-  :cljsbuild { 
+  :cljsbuild {
     :builds [{:id "om-drag-drop"
               :source-paths ["src"]
               :compiler {
